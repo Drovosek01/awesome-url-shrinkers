@@ -28,9 +28,13 @@ https://tmearn.net/, https://tmearn.com/
 https://opizo.com/en/
 https://cutwin.com/
 https://clik.pw/
+https://shrinkme.io/
 https://short.pe/
 https://tiny.do/
 https://cutt.us/
+https://clk.sh/
+https://oii.io/
+https://smoner.com/
 https://galaxy-link.space/
 https://dlsite.win/
 https://leitup.com/
@@ -67,7 +71,7 @@ https://goo-gl.me/
 https://clks.pro/
 https://t.ly/
 https://v.gd/
-https://t2mio.com/
+https://t2mio.com/, https://t2m.io/
 https://www.shorturl.at/
 https://linksplit.io/url-shortener
 https://www.switchy.io/
@@ -77,9 +81,35 @@ https://han.gl/
 https://vo.la/
 https://lstu.fr/
 https://linkhuddle.com/
-https://www.bl.ink/
+https://www.bl.ink/, https://budurl.com/
 https://www.shrunken.com/
 https://dub.co/
+https://goo.su/
+https://kurl.ru/
+https://ishort.su/
+https://www.lnnkin.com/
+https://youclick.link/
+https://gclnk.com/
+https://tinylinks.ru/
+https://tinysrc.me/
+https://qptr.ru/
+https://catcut.net/
+https://free-url-shortener.rb.gy/
+https://shrtfly.com/
+https://gplinks.in/
+https://za.gl/
+https://linkspy.cc/
+https://fc.lc/
+https://payskip.org/
+https://go-link.ru/
+https://mobz.io/shortlink
+https://involta.ru/tools/short-links/
+https://mrfx.ru/
+https://sc.link/
+https://lpnz.ru/
+https://shorte.st/
+https://7r6.com/
+https://link.wmtransfer.com/, https://urla.ru/
 https://publisher.linkvertise.com/, https://adf.ly/, https://adult.xyz/
 https://link.tl/, https://pubiza.com/
 http://is.gd/ | + | -
@@ -123,6 +153,12 @@ https://oe.cd/ | + | -
 - https://shortzon.com/
 - https://li.tl/
 - https://vvc.vc/
+- https://url-top.ru/
+- https://lingen.ru/
+- http://s2r.co/
+- http://soo.gd/
+- https://btfr.cc/
+- https://linkshrink.net/
 
 ### Сервисы с неизвестным состоянием работоспособности
 
@@ -137,3 +173,5 @@ https://oe.cd/ | + | -
 - https://www.getsurl.com/
 - https://clicky.me/
 - https://hoy.kr/
+- https://earnow.online/
+- https://upshrink.com/
